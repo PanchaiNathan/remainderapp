@@ -90,18 +90,7 @@ class ReminderCard extends StatelessWidget {
           ),
         ),
         SizedBox(width: 6.0),
-        // Chip(
-        //   backgroundColor: Theme.of(context).colorScheme.tertiary,
-        //   label: Text(
-        //     '',
-        //     style: TextStyle(
-        //       fontSize: 12,
-        //       fontWeight: FontWeight.bold,
-        //       color: Theme.of(context).colorScheme.onTertiary,
-        //     ),
-        //   ),
-        // ),
-        SizedBox(width: 8.0),
+        
       ],
     );
   }
