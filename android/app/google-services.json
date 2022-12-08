@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "143334351830",
+    "project_id": "remainderapp-16ff2",
+    "storage_bucket": "remainderapp-16ff2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143334351830:android:dc801233f3e55a3d093a77",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143334351830-rogtv4ljhkro80rqi2kosdv8sagesfls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmxRo7Jd3A7VI7bmFw0JrJw_dh0q-K41c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143334351830-rogtv4ljhkro80rqi2kosdv8sagesfls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143334351830:android:e3f2135c5b9be017093a77",
+        "android_client_info": {
+          "package_name": "com.varadgauthankar.simple_reminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143334351830-rogtv4ljhkro80rqi2kosdv8sagesfls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmxRo7Jd3A7VI7bmFw0JrJw_dh0q-K41c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143334351830-rogtv4ljhkro80rqi2kosdv8sagesfls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
